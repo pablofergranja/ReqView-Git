@@ -2,14 +2,14 @@
   "id": "Test",
   "guid": "f09ddec8-d12b-421e-8eea-b8b1f0130c57",
   "name": "Prueba Exportar Requisitos",
-  "lastId": 9,
+  "lastId": 10,
   "createdOn": "2024-03-07T15:11:42.423Z",
   "createdBy": {
     "name": "Pablo Fernandez",
     "email": "pfgranja@arquimea.com",
     "company": "Arquimea Space"
   },
-  "lastChangedOn": "2024-03-18T17:05:38.978Z",
+  "lastChangedOn": "2024-03-19T09:22:47.594Z",
   "lastChangedBy": {
     "name": "Pablo Fernández de la Granja",
     "email": "pfgranja@arquimea.com",
@@ -482,6 +482,35 @@
                 "name": "Pablo Fernández de la Granja"
               },
               "changedOn": "2024-03-18T17:05:38.978Z"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "guid": "086630a0-bbcb-415d-a0e8-b4ed7439be0a",
+          "text": "<p>Segundo test</p>",
+          "history": [
+            {
+              "affectedNodeId": "6",
+              "changedBy": {
+                "company": "Arquimea Space",
+                "email": "pfgranja@arquimea.com",
+                "name": "Pablo Fernández de la Granja"
+              },
+              "changedOn": "2024-03-19T09:22:17.216Z",
+              "docId": "Test",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "text": null
+              },
+              "changedBy": {
+                "company": "Arquimea Space",
+                "email": "pfgranja@arquimea.com",
+                "name": "Pablo Fernández de la Granja"
+              },
+              "changedOn": "2024-03-19T09:22:47.594Z"
             }
           ]
         }
